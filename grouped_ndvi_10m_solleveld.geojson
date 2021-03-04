@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
 "features": [
 { "type": "Feature", "properties": { "x": 0.0, "y": 72920.0, "mean_ndvi": 0.0, "max_ndvi": 0.0, "min_ndvi": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 72920.0, 451240.0 ] } },
 { "type": "Feature", "properties": { "x": -0.44044943820224719, "y": 72920.0, "mean_ndvi": -0.36959208899876389, "max_ndvi": 0.026342820424768123, "min_ndvi": -0.40035405183501926 }, "geometry": { "type": "Point", "coordinates": [ 72920.0, 451250.0 ] } },
